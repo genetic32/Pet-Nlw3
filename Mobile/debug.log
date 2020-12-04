@@ -1,0 +1,6 @@
+[1107/220654.957:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1108/160252.724:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1108/232456.138:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1109/163717.783:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1201/190150.400:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1201/190150.406:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Vida_\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\3338219c-cdd0-4e85-9802-c8635c4da177: O sistema não pode encontrar o caminho especificado. (0x3)
